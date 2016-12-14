@@ -1,0 +1,170 @@
+---
+---
+// content of your main.scss
+/*
+CSS http://clementrenaud.com
+par Clément Renaud
+hi@clementrenaud.com
+*/
+
+@charset "utf-8";
+
+@import "includes/typo";
+@import "includes/colors";
+@import "includes/layout";
+@import "includes/icons";
+@import "includes/pdf";
+
+$break-small :640px;
+
+body {
+    background: $background-color;
+}
+
+
+a, a:visited {
+  text-decoration: none;
+  color:$link-color;
+}
+
+a:hover {
+  transition: color 0.3s;
+  // font-weight: bold;
+}
+
+p a {
+  color:$link-color;
+}
+
+p a:hover {
+  color: $link-hover-color;
+  // text-decoration: underline;
+}
+
+
+header {
+
+  margin:4em 0 2em 0 ;
+  opacity:1;
+
+  @media only screen and (max-width:640px) {
+      position: relative;
+  }
+
+  h1 {
+    font-size: 26pt;
+  }
+
+  a, a:visited {
+    color:$header-title-color;
+    padding: 10px 5px 5px 5px;
+    margin-left:-5px;
+    background: rgba(255,255,255, 0.3);
+    opacity:1;
+  }
+
+  a:hover {
+    font-weight: normal;
+    color: white;
+    background: #000;
+  }
+
+
+  &.sticky {
+    top: 4px;
+    text-align: right;
+
+    #main-title {
+      width: 100%;
+    }
+
+    a {
+      font-size: .7em;
+      padding: 10px 5px 5px 5px;
+      color: white;
+      background: $header-link-color;
+      opacity:.5;
+      &.invert {
+        color: $header-link-color;
+      }
+      &:hover {
+        color :white;
+        background: #000;
+        opacity: 1;
+      }
+    }
+  }
+}
+
+
+#talks {
+  list-style: none;
+
+  li {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2em
+  }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#footer {
+  background: #000;
+  color: white;
+
+  .container {
+    padding-top : 2.5em;
+  }
+
+
+  h5 {
+    a {
+      padding: 10px 10px 5px 10px;
+      margin-left: -10px;
+      &:hover {
+        color: black;
+        background-color: white;
+      }
+    }
+  }
+
+  p,a {
+    color: white;
+  }
+  #social {
+    text-align: center;
+  }
+  #ok {
+    text-align: center;
+    a {
+      padding: 10px 10px;
+      &:hover {
+        color: black;
+        background-color: white;
+      }
+    }
+  }
+  @media only screen and (max-width:640px) {
+      padding-bottom: 4em;
+  }
+}
+
+.main {
+    background: #FFF;
+    padding-top: 9em;
+}
+
+
+.collapsible {
+  cursor: pointer;
+  padding-bottom: .5em;
+}
+.collapsed {
+  height:4em;
+  // white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

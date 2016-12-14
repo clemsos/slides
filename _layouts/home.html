@@ -1,0 +1,38 @@
+{% include head.html %}
+{% include header.html %}
+<div class="home container tall">
+  <div class="row">
+    <div class="columns">
+      <ul id="talks">
+        {% assign sorted = (site.talks | sort: 'date') | reverse %}
+        {%for post in sorted %}
+          {% if post.hide != true %}
+            <li>
+              <h3>
+                <a href="{{post.url}}" title="{{post.description}}" data-id="{{ forloop.index }}">
+                  {{post.title}}
+                </a>
+              </h3>
+
+              <div class="collapsed collapsible">
+                {{ post.description | markdownify  }}
+              </div>
+              <p><small>{{post.date | date: '%B %d, %Y'}} at {{post.place}}</small></p>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div> <!-- end .main container -->
+<script type="text/javascript">
+  var els = document.getElementsByClassName("collapsible")
+  for (var i = 0; i < els.length; i++) {
+    var el = els[i]
+    el.onclick = function(e) {
+      this.classList.toggle('collapsed');
+    }
+  }
+
+</script>
+{% include footer.html %}

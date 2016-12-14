@@ -1,0 +1,11 @@
+{% include head.html %}
+{% include header.html %}
+<div class="container page" {% if page.id != "" %} id="{{page.id}}" {% endif %}>
+  <div class="row">
+    <h2 class="title">
+      
+    </h2>
+    {{ content }}
+  </div>
+</div>
+{% include footer.html %}
