@@ -32,11 +32,11 @@ a:hover {
   // font-weight: bold;
 }
 
-p a {
+a, a:visited {
   color:$link-color;
 }
 
-p a:hover {
+a:hover {
   color: $link-hover-color;
   // text-decoration: underline;
 }
@@ -65,8 +65,7 @@ header {
 
   a:hover {
     font-weight: normal;
-    color: white;
-    background: #000;
+    color:$link-color;
   }
 
 
