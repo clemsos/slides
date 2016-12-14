@@ -1,7 +1,7 @@
 ---
 title: "Initiation à la visualisation avec Processing"
 description: "Un cours d'initiation à la visualisation de données avec le logiciel Processing. Destiné aux débutants en programmation désireux de comprendre comment fontionne la programmation (graphistes, artites, etc.). Workshop délivré au Batofar à Paris sur invitation de Dolus & Dolus / Mirage Festival."
-layout: slides
+layout: markdown
 date: 2014-08-23
 place: "Batofar, Paris"
 ---
