@@ -1,6 +1,6 @@
-# url: "http://clementrenaud.com/slides"
+# url: "http://slides.clementrenaud.com"
 # permalink: /:path
-# baseurl: ""
+# baseurl: "slides"
 # relative_permalinks: false
 
 exclude:

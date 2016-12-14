@@ -1,12 +1,29 @@
 <!DOCTYPE html>
 
     <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="utf-8"><style>
+
+    @font-face {
+       font-family: "Yanone Kaffeesatz";
+       src: local("Yanone Kaffeesatz"),
+            local("YanoneKaffeesatz-Regular"),
+           url(/fonts/yanonekaffeesatz/YanoneKaffeesatz-Regular.ttf);
+       font-weight: normal;
+     }
+
+     @font-face {
+       font-family: "Calibre Light";
+       src: local("Calibre Light"),
+            local("Calibre-Light"),
+            url(/fonts/calibreLight/Calibre-Light.ttf);
+       font-weight: normal;
+     }
+
+
     html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
     body{
       color:#444;
-      font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman',
-                  "Hiragino Sans GB", "STXihei", "微软雅黑", serif;
+      font-family:"Calibre Light", Helvetica, Arial, sans;
       font-size:12px;
       line-height:1.5em;
       background:#fefefe;
@@ -129,7 +146,7 @@
   <body>
     <p><a href="/">Back to other talks</a></p>
     <h1>{{ page.title }}</h1>
-    <p>{{ page.description }}</p>
+    <p>{{ page.description | markdownify }}</p>
     <hr />
     {{ content }}
   </body>
