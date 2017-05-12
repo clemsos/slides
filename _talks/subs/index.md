@@ -6,11 +6,11 @@ description: "A scratch workshop for (non-technical) visualisation enthusiats.--
 link: http://aadn.org/nos-mediations/workshop-visualisation-de-donnees/
 date: 2016-12-14
 place: "Les Subsistances, Lyon"
-hide: true
 ---
 <div markdown="0">
 
 d3codages, 14/12/2016
+
 ---
 name:about
 class: center, middle, inverse
