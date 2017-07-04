@@ -6,6 +6,8 @@ date: 2017-07-03
 link: "http://barthes.enssib.fr/ECV-2017/"
 place: "ENSSIB, Lyon"
 ---
+ENSSIB, Lyon - Juillet 2017
+
 <div markdown="0">
 
 ---
@@ -42,7 +44,14 @@ class:
 
 # Atlas historique des universités
 
-## Un jeu de données
+![Interface](./img/screencapture-carto-univ.png)
+
+http://clementrenaud.com/carto-univ
+
+---
+class:
+
+# Lire... un jeu de données
 
 ### *Le mouvement universitaire médiéval en Europe*, Camille Ducrot, Mars 2014
 
@@ -56,11 +65,8 @@ class:
 > *Les Rotuli* : "Les rotuli (...) représentent donc le nombre de tous les membres de l'université sur une année, les profes-
 seurs, les élèves mais aussi les personnes travaillant pour l'université"
 
-
-### Lien : http://clementrenaud.com/carto-univ/
-
 ---
-# Reformuler les données
+# Reformuler... les données
 
 
 .right-column[
@@ -69,9 +75,9 @@ seurs, les élèves mais aussi les personnes travaillant pour l'université"
 
 ### Négocier des abstractions
 
-* Voir le [jeu de données original](./files/CDucrot-Universites-mis-en-forme.csv)
+* Voir le [jeu de données original](http://datapipes.okfnlabs.org/csv/html/?url=http://slides.clementrenaud.com/talks/ENSSIB-EcoleCartoVisu2017/files/CDucrot-Universites-mis-en-forme.csv#L17)
 * Le [Journal de Bord](./files/Journal-EG-oct-2016.pdf) d'Eric reformatant courageusement les données grâce à des scripts Perl et de la patience
-* Voir la [version actuelle](http://datapipes.okfnlabs.org/csv/html/?url=http://clementrenaud.com/carto-univ/docs/Tout-Univ-religion-par-an.csv#L14)
+* Voir la [version actuelle](http://datapipes.okfnlabs.org/csv/html/?url=http://clementrenaud.com/carto-univ/docs/Tout-Univ-religion-par-an.csv#L14) des données
 
 ]
 
@@ -93,7 +99,7 @@ seurs, les élèves mais aussi les personnes travaillant pour l'université"
 
 ---
 
-# Problèmes de géocodage...
+# Observer... les problèmes de géocodage
 
 ![](./img/geoloc-errors.png)
 
@@ -104,20 +110,11 @@ seurs, les élèves mais aussi les personnes travaillant pour l'université"
 ---
 class: inverse
 
-# Processus itératif d'écriture
+# Ecrire... processus itératif
 
 ![](./img/Screenshot-Step1.png)
 * Les logs sur [Github](http://github.com/clemsos/carto-univ), utilisant [Git](https://fr.wikipedia.org/wiki/Git)
 * Voir [la V0 sur bl.ocks](http://bl.ocks.org/clemsos/ca5b795ac730a555035cc781bb21fc5f) (et son code source) et le [code](https://gist.github.com/clemsos/ca5b795ac730a555035cc781bb21fc5f) -- ([offline](./versions/v0))
-
----
-class:
-
-# Cartographie interactive
-
-![Interface](./img/screencapture-carto-univ.png)
-
-http://clementrenaud.com/carto-univ
 
 ---
 class:
