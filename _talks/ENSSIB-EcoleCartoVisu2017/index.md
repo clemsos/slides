@@ -19,7 +19,7 @@ class: center, middle, inverse
 <br><br>
 ### Clément Renaud
 
-ENSSIB, Lyon - Juillet 2017
+Institute for Area and Global Studies, EPFL
 
 ---
 class: center, middle
@@ -46,7 +46,7 @@ class:
 
 ![Interface](./img/screencapture-carto-univ.png)
 
-http://clementrenaud.com/carto-univ
+[barthes.enssib.fr/cybergeo/Univ/](http://clementrenaud.com/carto-univ)
 
 .small[Travail mené à l'AIL, ENSSIB (Nov 2016)]
 ---
@@ -117,6 +117,7 @@ class: inverse
 ![](./img/Screenshot-Step1.png)
 * Les logs sur [Github](http://github.com/clemsos/carto-univ), utilisant [Git](https://fr.wikipedia.org/wiki/Git)
 * Voir [la V0 sur bl.ocks](http://bl.ocks.org/clemsos/ca5b795ac730a555035cc781bb21fc5f) (et son code source) et le [code](https://gist.github.com/clemsos/ca5b795ac730a555035cc781bb21fc5f) -- ([offline](./versions/v0))
+* Une autre étape : http://barthes.enssib.fr/cybergeo/Univ/
 
 ---
 # Chercher... un point de vue
@@ -158,7 +159,8 @@ class:
 ---
 class: middle, center
 
-## Merci !
+# Merci !
+Des questions ?
 
 ### Clément Renaud
 
