@@ -110,7 +110,7 @@ seurs, les élèves mais aussi les personnes travaillant pour l'université"
 ---
 class: inverse
 
-# Ecrire... processus itératif
+# Ecrire... un point de vue
 
 ![](./img/Screenshot-Step1.png)
 * Les logs sur [Github](http://github.com/clemsos/carto-univ), utilisant [Git](https://fr.wikipedia.org/wiki/Git)
