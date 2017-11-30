@@ -1,6 +1,6 @@
 ---
 layout: slides
-title: "Launch of the Pirate Book at Transmediale 2016"
+title: "Shanzhai Archeology "
 description: "Launch of [the Pirate Book](http://thepiratebook.net) with Christopher Kirkley, Alessandro Ludovico, Nicolas Maigret, Clément Renaud, Maria Roszkowska at [Transmediale Festival](https://transmediale.de)."
 link: https://transmediale.de/de/content/book-launch-the-pirate-book-by-nicolas-maigret-and-maria-roszkowska-0
 date: 2016-02-05
@@ -12,8 +12,8 @@ place: "Haus der Kulturen der Welt, Berlin"
 class: center, middle, inverse
 
 # Bandits brought technology to this world
-###  The Pirate Book
-Transmediale, Berlin, Feb 2016
+###  Shanzhai Archeology
+Mapping Festival, Nantes, November 2017
 
 
 ???
@@ -34,10 +34,24 @@ background-image: url(img/Pearl_River_Delta_Area.png)
 .footnote[Pearl River Delta]
 
 ---
+class: inverse, cover, middle, center
+background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
+
+# Shenzhen : 1982-2017
+
+---
 class: inverse
 background-image: url(img/HQBstuff.jpg)
 
 .footnote[Huaqiang Bei district]
+
+---
+class: center, middle, inverse
+background-image: url(img/Electronics_factory_in_Shenzhen-min.jpg)
+
+---
+class: center, inverse, middle
+background-image: url(img/HQBlife.jpg)
 
 ---
 background-image:
@@ -70,16 +84,21 @@ class: inverse
 
 ---
 class: inverse
+background-image: url(img/shapes-shanzhai.jpeg)
+## Shanzhai Archeology
+---
+class: inverse
 background-image: url(img/ShenzhenMap.png)
 
 ---
-class: center, inverse, middle
-background-image: url(img/HQBlife.jpg)
+class: inverse
+background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
 
+# Maker's heaven
 
 ---
-class: center, middle, inverse
-background-image: url(img/Electronics_factory_in_Shenzhen-min.jpg)
+class: center, inverse, middle
+background-image: url(img/cat-skype.png)
 
 ---
 class: inverse
@@ -90,4 +109,6 @@ class: inverse
 .right-column[
   ![](img/LiKeqiang-Seed.png)
 ]
+
+
  </div>

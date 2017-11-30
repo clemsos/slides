@@ -7,12 +7,12 @@ Au niveau national, la transition économique annoncée par le plan modernisatio
 
 
 Grâce à des exemples issus des villes de Shanghai, Nanjing et Shenzhen, nous observerons comment ces transformations en cours s’inscrivent dans des tensions complexes entre directives nationales, discours mondialisé et réalités locales."
-date: 2016-11-23
+date: 2017-10-08
 place: Going East - EPFL, Lausanne
 layout: slides
 ---
 <div markdown="0">
-EPFL - 23 Novembre 2016
+EPFL - 2016-2017
 
 Clément Renaud / http://clementrenaud.com
 
@@ -24,18 +24,28 @@ class: center, middle, inverse
 
 ### Going East - EPFL
 
-Clément Renaud - 23 Novembre 2016
+Clément Renaud - 8 Novembre 2017
 
 http://clementrenaud.com
 
 ---
-class: inverse, center, middle, cover
+class: inverse, center
+background-image: url("img/closed-factory.jpg")
 
-# Towards the "Fab City"
+# Industrial Transformations
 
 ---
-class: inverse
-background-image: url(img/space-software.png)
+class: inverse, center
+background-image: url("img/robot-arm.jpg")
+
+# A Rush for Innovation
+
+---
+class: center, middle, cover
+
+#  Global Dynamics and the "Fab City"
+
+![](img/Fab-City-B.jpg)
 
 ---
 
@@ -43,9 +53,9 @@ name: title
 class: center, inverse
 background-image: url(../pspe/img/opimpuc-header.jpg)
 
-# Créativité, innovation et production
+# Where does technology emerge ?
 
-## Where does technology emerge ?
+## New urban spaces to support innovators
 
 <br />
 <br />
@@ -60,14 +70,20 @@ background-image: url(../pspe/img/opimpuc-header.jpg)
 
 
 How does innovation take place ?
+
 ---
+class: center
+# Makerspaces, fablabs, etc
 
-class: inverse
-background-image: url(img/maker.jpg)
+.col-one-half[
+.small[(Bottollier-Depois, 2012)]
+![](img/makerspaces-type.png)
+]
 
-# Les tiers-lieux ?
-
-### Mutualisation des ressources, apprentissage, technologie...
+.col-one-half[
+.small[(MoviLab, 2016)]
+![](img/Makerspaces-01.png)
+]
 
 ---
 class: inverse
@@ -93,11 +109,13 @@ background-image: url(img/articlect-toulouse.jpg)
 Artilect, Toulouse
 
 ---
-background-image: url(img/kohtala-bosque-figure1.png)
 
-et leurs nombreux hybrides !
+class: inverse
+background-image: url(img/maker.jpg)
 
-(Bosque, 2016)
+# Les tiers-lieux ?
+
+### Mutualisation des ressources, apprentissage, technologie...
 
 ---
 class: inverse, center, middle, cover
@@ -131,21 +149,24 @@ class: inverse
 
 ---
 class: inverse
+background-image: url(img/LiKeqiang-Seed.png)
+
+# Mass Makerspaces
+
+---
+class: inverse
 background-image: url(img/chuangke.jpg)
 
 # 创客 chuangke
 
----
-background-image: url(img/LiKeqiang-Seed.png)
 
 ---
 class: inverse, cover, middle, center
 
-# Etudes de cas
+# Etudes de cas : 2 villes
 
-## Shanghai
-## Nanjing
-## Shenzhen
+## Shanghai & Shenzhen
+
 
 ---
 class: inverse, cover, middle, center
@@ -224,48 +245,19 @@ class: inverse
 ## 2015
 
 ---
+class: center
+background-image: url(img/shanghai-figure.png)
+
+# Living Spaces
+
+---
 background-image: url(../pspe/img/banyan.jpg)
 class: inverse
 ## The banyan tree (榕树)
 
 .footnote.small[
-![](/uploads/pspe/liuyan.jpg)
 Liu Yan, one of Xindanwei co-founder (新单位)
 ]
-
-
----
-class: inverse, cover, middle, center
-
-# Nanjing
-
----
-class: inverse
-background-image: url(img/lishui-science-park-nanjing-china_013.jpg)
-
-# Nanjing : media, science and technology
-
-50+ technological parks
-
-.footnote[![](nanjing-map-china.jpg)]
-
----
-class: inverse, cover,
-background-image: url(img/nj-hackerspace.jpg)
-
-# NJ Hackerspace
-
----
-class: inverse, cover,
-background-image: url(img/geek-store.jpg)
-
-# Geek store
-
----
-class: inverse, cover,
-background-image: url(img/M3.jpg)
-
-# M3 Mini
 
 ---
 class: inverse, cover, middle, center
@@ -312,10 +304,11 @@ background-image: url(img/HQBlife.jpg)
 background-image:
 class: center, middle, inverse
 
-![](img/ShanzhaiBox.jpg)
-
 ### shan zhai
 # 山寨
+
+![](../PirateBook-transmediale/img/shapes-shanzhai.jpeg)
+
 
 ---
 class: center, middle, inverse
@@ -330,7 +323,7 @@ background-image: url(img/HAX.png)
 
 # HAX : hardware incubator
 
-.footnote[![](hax2.jpg) http://kickstarter.com/hax]
+.footnote[http://kickstarter.com/hax]
 
 ---
 class: inverse
@@ -343,12 +336,75 @@ class: inverse
 background-image: url(img/seed.jpg)
 
 # Seeed Studio
+
 ---
 class: inverse
+background-image: url("img/iMakerBase.jpg")
+
+# iMakerBase
+---
+class: inverse
+background-image: url("img/empty.jpg")
+
+# But also : lots of empty spaces...
+
+---
+class: cover, middle, center
+
+# Discussion
+
+---
+class: center
 
 # Is Shenzhen the forthcoming "fab city" ?
 ![](img/PCH-Sustainability-Shenzhen-1920x1080.jpg)
 
-What are the issues here ?
+---
+class: center
+
+# Exporting the Chinese city
+
+.left-column[
+### New City of NEOM in
+![](img/Saudi-Arabia-Prince-Mohammed-bin-Salman-Saudi-Arabia-NEOM.jpg)
+![](img/neom-map.png)
+### Tech Hubs in Africa
+![](img/africa-tech-hubs.jpg)
+]
+
+.right-column[
+![](img/onebelt-oneroad.jpg)
+]
+---
+
+# Conclusion
+
+## Innovation as a driver to urbanism
+### Globalized Imaginary and Figures
+### People, ideas, resources : what spaces for them ?
+### Making the world
+
+<br />
+
+## Different cities, different settings
+### Can a Chinese 'model' be defined ? and exported ?
+### What about the rest of China ?
+### How to deal with the existing ?
+
+
+---
+class: center, middle
+
+# Thank you !
+
+<br />
+<br />
+
+### “The Metropolis strives to reach a mythical point where the world is completely fabricated by man, so that it absolutely coincides with his desires.”
+
+― Rem Koolhaas, 2000
+
+
+
 
 </div>

@@ -6,10 +6,8 @@ layout: slides
 hide: true
 ---
 
----
-
 <div markdown="0">
-Lyon, 7 Avril 2016.
+Lyon, 12 & 17 Octobre 2017.
 
 Clément Renaud / http://clementrenaud.com
 ---
@@ -17,10 +15,9 @@ class: center, middle
 
 # Représenter l'évolution spatio-temporelle de réseaux
 ### Clément Renaud  
+[http://clementrenaud.com](bonjour@clementrenaud.com)
 
 Lyon, Oct 2017
-
-![](img/logo-arc5-rvb.jpg)
 
 ---
 class: inverse
@@ -35,22 +32,39 @@ background-image: url(img/supercargo-img1.png)
 ---
 # Is ontology over-rated?
 
-### Questions of definitions : Ontological reflections may be over-rated
+### Questions of definitions
 
-Transversal reflections for multiple scientific disciplines : what is the effect of time?
+How does ontology support the evolution of definitions over time ?
+
+Transversal reflections for scientific disciplines : the effect of time
 
 .col-one-half[
 ### Learning from China
-- most of the time, things are often not what they appear to be
-- everything change all the time
 
+Most of the time, things are not what they appear to be
 
-Illusion of permanence ? ignorance for decay? 'the same, but better'?
+Everything change all the time
+
+Illusion of permanence :
+- ignorance for decay?
+- changes are seen as 'the same, but better'?
+
 ]
 
 .col-one-half[
 ![](./img/PreHeavenBaGua+text.gif)
 ]
+
+---
+name:representation
+class: inverse
+background-image:url(../MemeWriting/img/perspective.png)
+
+# Recording changes
+### Common spaces of representation
+
+.small.footnote[Jan Vredeman de Vries – *Traité « Perspective »* (1604) <br>  source: [Denis Favennec](http://math.univ-lyon1.fr/irem/spip.php?article232) ]
+
 
 ---
 
