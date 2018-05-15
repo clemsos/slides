@@ -15,8 +15,8 @@ EPFL, 12/12/2016
 name:title
 class: center, middle, inverse
 
-# Tectonique des réseaux
-### Le numérique en Chine
+# Le Chine et les technologies numériques
+### Economie de la Chine
 
 ### Clément Renaud  
 EPFL, Lausanne - 2017
