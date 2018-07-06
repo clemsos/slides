@@ -19,17 +19,36 @@ Please use left/right keyboard arrows to navigate prev/next
 ---
 class: center, middle, inverse
 
-# The Making of Technology in Shenzhen
-##  Local and Global Implications
+# The Making of Shenzhen
+## A Transformative Experience for Technology on Earth
 
 <br />
 ### Clément Renaud
 
 Institute for Area and Global Studies (IAGS)  
-Swiss Institute of Technology  
+Swiss Institute of Technology (EPFL)  
 
 <br />
 2018  
+
+---
+class: middle, center
+background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
+
+.inverse[
+# World center of consumer electronics   
+]
+
+.inverse.footnote[Huaqiang Bei district in Shenzhen]
+
+---
+
+class: inverse, cover, middle, center
+background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
+
+.inverse[
+# Shenzhen : 1978-2018
+]
 
 ---
 class:inverse
@@ -49,24 +68,6 @@ June 30th, 2018
 <video width="800" controls>
 <source src="https://scontent-atl3-1.xx.fbcdn.net/v/t66.18014-6/36441672_1980668251984476_4394509737529828412_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&oh=f221358d7111a26805108caca12a4964&oe=5BE79C62" type="video/mp4"  >
 </video>
----
-
-class: inverse, cover, middle, center
-background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
-
-.inverse[
-# Shenzhen : 1978-2018
-]
-
----
-class: middle, center
-background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
-
-.inverse[
-# World center of consumer electronics   
-]
-
-.inverse.footnote[Huaqiang Bei district in Shenzhen]
 
 ---
 
@@ -114,20 +115,16 @@ class:inverse
 .col-one-half.small[
 
 Sep 9, 1976  
-**Death of Mao Zedong**
-End of the Cultural Revolution  
+## End of the Cultural Revolution  
 
 Dec 1978  
-**Beginning of economic reform**  
-改革開放
+## Beginning of economic reform
 
 May 1980  
-**Shenzhen Special Economic Zone**  
-深圳经济特区  
+## Shenzhen Special Economic Zone  
 
 Jan-Feb 1992  
-**The Southern tour**  
-南巡  
+## The Southern tour（南巡）  
 
 ]
 
@@ -238,7 +235,7 @@ class: center
 ![](./img/qr.jpg)
 
 .inverse[
-## To face very large problems
+## To face (very large) problems
 ]
 
 ---
@@ -246,7 +243,7 @@ class: inverse
 background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
 
 .inverse[
-# Build a "maker's heaven"
+# Model city: building a "maker's heaven"
 ]
 
 .footnote[The maker (创客), new hero of the **Made in China 2025** 10-year plan]
@@ -256,7 +253,7 @@ class: middle, center
 background-image: url(../ShanzhaiArcheology/img/ShenzhenMap.png)
 
 .inverse[
-# Bring people to Shenzhen
+# Learning from Shenzhen
 ]
 
 ---
@@ -264,7 +261,7 @@ class: center
 background-image: url(../ShanzhaiArcheology/img/cat-skype.png)
 
 .inverse[
-# Faster, faster... but why?
+# Accelerate product/consume cycle
 ]
 
 
@@ -277,7 +274,7 @@ background-image: url(../ShanzhaiArcheology/img/PowerBankPhone.png)
 class:center
 
 .inverse[
-# Export tech and uses across the world
+# Export across the world
 ]
 .left-column[
 ![](../ShanzhaiArcheology/img/PowerBankPhoneFront.png)
@@ -295,7 +292,7 @@ background-image: url(./img/china-city-johannesburg.jpg)
 class:center, inverse
 
 .inverse[
-# Design emerging spaces
+# Shaping new spaces
 ]
 
 .footnote.inverse[
