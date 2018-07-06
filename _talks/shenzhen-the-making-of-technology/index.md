@@ -25,7 +25,9 @@ class: center, middle, inverse
 <br />
 ### Clément Renaud
 
+Institute for Area and Global Studies (IAGS)  
 Swiss Institute of Technology  
+
 <br />
 2018  
 
