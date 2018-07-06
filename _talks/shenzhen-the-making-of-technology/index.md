@@ -30,44 +30,6 @@ Swiss Institute of Technology
 2018  
 
 ---
-
-class: inverse, cover, middle, center
-background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
-
-.inverse[
-# Shenzhen : 1978-2018
-]
-
----
-class: middle, center
-background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
-
-.inverse[
-## Global headquarters of consumer electronics   
-]
-
-.inverse.footnote[Huaqiang Bei district in Shenzhen]
-
----
-class: inverse, middle, center
-background-image: url(./img/cny-robodance.gif)
-
-.inverse[
-# Home of tech giants
-]
-
-.inverse[
-### Foxconn but also Tencent, Huawei, BYD, DJI, BGI, Ping An...
-]
-
-
-.footnote.small[
-2017 Chinese New Year TV show featuring a ballet of robots by Shenzhen company *UBTech*  
-dancing with the famous singer Sun Nan - source: CCTV
-]
-
----
-
 class:inverse
 
 .col-one-half[
@@ -87,13 +49,34 @@ June 30th, 2018
 </video>
 ---
 
+class: inverse, cover, middle, center
+background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
+
+.inverse[
+# Shenzhen : 1978-2018
+]
+
+---
+class: middle, center
+background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
+
+.inverse[
+# World center of consumer electronics   
+]
+
+.inverse.footnote[Huaqiang Bei district in Shenzhen]
+
+---
+
 class: center
 background-image: url(./img/Pearl_River_Delta_Area.png)
 .inverse[
 # The Pearl River Delta
 ]
 
-.inverse.footnote[80-100 millions people, four different legal and fiscal systems, two stock markets,	40% of global port traffic, etc...]
+.align-right.inverse.footnote[80-100 millions people, four different legal and fiscal systems,  
+two stock markets,	40% of global port traffic, etc...
+]
 
 ---
 class:center
@@ -147,6 +130,23 @@ Jan-Feb 1992
 ]
 
 ---
+class: inverse, middle, center
+background-image: url(./img/cny-robodance.gif)
+
+.inverse[
+# Nurturing tech giants
+]
+
+.inverse[
+### Foxconn but also Tencent, Huawei, BYD, DJI, BGI, Ping An...
+]
+
+
+.footnote.small[
+2017 Chinese New Year TV show featuring a ballet of robots by Shenzhen company *UBTech*  
+dancing with the famous singer Sun Nan - source: CCTV
+]
+---
 class: inverse
 background-image: url(./img/xia_hai.jpeg)
 
@@ -162,7 +162,7 @@ image: Taiwan Mobile (大哥大)
 class: center
 
 .inverse[
-# Building up a digital infrastructures
+# Building up digital infrastructures
 ]
 
 .col-one-half[
@@ -227,6 +227,19 @@ background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
 ]
 
 ---
+class: center
+
+.inverse[
+# Trying all sort of things
+]
+
+![](./img/qr.jpg)
+
+.inverse[
+## To face very large problems
+]
+
+---
 class: inverse
 background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
 
@@ -241,7 +254,7 @@ class: middle, center
 background-image: url(../ShanzhaiArcheology/img/ShenzhenMap.png)
 
 .inverse[
-# Going to Shenzhen
+# Bring people to Shenzhen
 ]
 
 ---
@@ -249,7 +262,7 @@ class: center
 background-image: url(../ShanzhaiArcheology/img/cat-skype.png)
 
 .inverse[
-# Faster, faster... faster?
+# Faster, faster... but why?
 ]
 
 
@@ -258,34 +271,34 @@ source: HAX Kickstarter
 ]
 
 ---
-class: center
-
-.inverse[
-# Trying all sort of things
-]
-
-![](./img/qr.jpg)
-
-
----
 background-image: url(../ShanzhaiArcheology/img/PowerBankPhone.png)
 class:center
 
 .inverse[
-# Exporting it accross the world
+# Export tech and uses across the world
 ]
 .left-column[
 ![](../ShanzhaiArcheology/img/PowerBankPhoneFront.png)
 ![](../ShanzhaiArcheology/img/PowerBankPhoneFrontProfile.png)
 
 .inverse[
-Accra, Ghana  
-June 2015
+Accra, Ghana (2015)
+
+source: [Quartz Africa](https://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/)  ]
+
 ]
 
-.small[[Quartz Africa](https://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/)  ]
+---
+background-image: url(./img/china-city-johannesburg.jpg)
+class:center, inverse
+
+.inverse[
+# Design emerging spaces
 ]
 
+.footnote.inverse[
+China city in Johannesburg - source: Quartz
+]
 ---
 class: center, middle
 
