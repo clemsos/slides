@@ -36,7 +36,7 @@ class: middle, center
 background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
 
 .inverse[
-# World center of consumer electronics   
+# World Center of Consumer Electronics   
 ]
 
 .inverse.footnote[Huaqiang Bei district in Shenzhen]
@@ -64,18 +64,19 @@ June 30th, 2018
 ![](./img/happy_birthday.gif)
 ]
 
-
 <video width="800" controls>
-<source src="https://scontent-atl3-1.xx.fbcdn.net/v/t66.18014-6/36441672_1980668251984476_4394509737529828412_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&oh=f221358d7111a26805108caca12a4964&oe=5BE79C62" type="video/mp4"  >
+<source src="./img/shenzhen-40th-anniversary.mp4" type="video/mp4" />
 </video>
 
+source : [cctv](https://scontent-atl3-1.xx.fbcdn.net/v/t66.18014-6/36441672_1980668251984476_4394509737529828412_n.mp4?_nc_cat=0&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&oh=f221358d7111a26805108caca12a4964&oe=5BE79C62)
 ---
 
 class: center
 background-image: url(./img/Pearl_River_Delta_Area.png)
 .inverse[
-# The Pearl River Delta
+# The "Greater Bay Area"
 ]
+
 
 .align-right.inverse.footnote[80-100 millions people, four different legal and fiscal systems,  
 two stock markets,	40% of global port traffic, etc...
@@ -86,7 +87,7 @@ class:center
 background-image: url(./img/PRD_history.jpg)
 
 .inverse[
-# Legacy of a Global History
+# Legacy of a Global History 
 ]
 
 .footnote.small[
@@ -133,7 +134,7 @@ class: inverse, middle, center
 background-image: url(./img/cny-robodance.gif)
 
 .inverse[
-# Nurturing tech giants
+# Growing and nurturing giants
 ]
 
 .inverse[
@@ -214,6 +215,30 @@ background-image: url(./img/iPhones.jpg)
 ]
 
 ---
+
+background-image: url(../ShanzhaiArcheology/img/PowerBankPhone.png)
+class:center
+
+.inverse[
+# Trying all sort of things
+]
+.footnote.inverse.align-right[
+## Facing new problems
+
+Accra, Ghana (2015)
+  .small[
+    source: [Quartz Africa](https://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/)  
+  ]
+
+]
+
+
+.left-column[
+![](../ShanzhaiArcheology/img/PowerBankPhoneFront.png)
+![](../ShanzhaiArcheology/img/PowerBankPhoneFrontProfile.png)
+]
+
+---
 class: center, middle, inverse
 background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
 
@@ -226,27 +251,19 @@ background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
 ]
 
 ---
-class: center
+class: center, inverse
 
 .inverse[
-# Trying all sort of things
+# Real-time technology making
 ]
 
-![](./img/qr.jpg)
+<video width="700" controls>
+<source src="./img/电脑机箱工厂实拍.mp4#t=6,60" type="video/mp4"  >
+</video>
 
-.inverse[
-## To face (very large) problems
+.footnote.small[
+Source : [Baidu Video](http://baishi.baidu.com/watch/01642313591013583875.html)
 ]
-
----
-class: inverse
-background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
-
-.inverse[
-# Model city: building a "maker's heaven"
-]
-
-.footnote[The maker (创客), new hero of the **Made in China 2025** 10-year plan]
 
 ---
 class: middle, center
@@ -257,42 +274,21 @@ background-image: url(../ShanzhaiArcheology/img/ShenzhenMap.png)
 ]
 
 ---
-class: center
-background-image: url(../ShanzhaiArcheology/img/cat-skype.png)
+class: inverse
+background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
 
 .inverse[
-# Accelerate product/consume cycle
+# "Maker's heaven" : the model city
 ]
 
-
-.footnote.small[
-source: HAX Kickstarter
-]
-
----
-background-image: url(../ShanzhaiArcheology/img/PowerBankPhone.png)
-class:center
-
-.inverse[
-# Export across the world
-]
-.left-column[
-![](../ShanzhaiArcheology/img/PowerBankPhoneFront.png)
-![](../ShanzhaiArcheology/img/PowerBankPhoneFrontProfile.png)
-
-.inverse[
-Accra, Ghana (2015)
-
-source: [Quartz Africa](https://qz.com/411330/the-mystery-of-the-power-bank-phone-taking-over-ghana/)  ]
-
-]
+.footnote[The maker (创客), new hero of the **Made in China 2025** 10-year plan]  
 
 ---
 background-image: url(./img/china-city-johannesburg.jpg)
 class:center, inverse
 
 .inverse[
-# Shaping new spaces
+# Shaping new spaces around the world
 ]
 
 .footnote.inverse[
