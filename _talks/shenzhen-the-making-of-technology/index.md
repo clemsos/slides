@@ -20,12 +20,12 @@ Please use left/right keyboard arrows to navigate prev/next
 class: center, middle, inverse
 
 # The Making of Shenzhen
-## A Transformative Experience for Technology on Earth
+## A Transforming Experience of Technology on Earth
 
 <br />
 ### Clément Renaud
 
-Institute for Area and Global Studies (IAGS)  
+<small>Institute for Area and Global Studies (IAGS) </small>  
 Swiss Institute of Technology (EPFL)  
 
 <br />
@@ -87,7 +87,7 @@ class:center
 background-image: url(./img/PRD_history.jpg)
 
 .inverse[
-# Legacy of a Global History 
+# Legacy of a Global History
 ]
 
 .footnote.small[
@@ -252,14 +252,11 @@ background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
 
 ---
 class: center, inverse
+background-image: url(./img/bitcoin-mine.jpeg)
 
 .inverse[
 # Real-time technology making
 ]
-
-<video width="700" controls>
-<source src="./img/电脑机箱工厂实拍.mp4#t=6,60" type="video/mp4"  >
-</video>
 
 .footnote.small[
 Source : [Baidu Video](http://baishi.baidu.com/watch/01642313591013583875.html)
