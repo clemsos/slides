@@ -258,9 +258,7 @@ background-image: url(./img/bitcoin-mine.jpeg)
 # Real-time technology making
 ]
 
-.footnote.small[
-Source : [Baidu Video](http://baishi.baidu.com/watch/01642313591013583875.html)
-]
+.footnote.small[Source : Vice]
 
 ---
 class: middle, center
