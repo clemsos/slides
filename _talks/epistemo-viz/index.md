@@ -115,6 +115,7 @@ En Chine, mais aussi ailleurs : Les mots et les choses (Foucault), la carte et l
 
 ---
 name: ghibli
+class: inverse
 
 # Contruire les lieux de la pensée ?
 
@@ -173,10 +174,10 @@ background-image: url(./img/Playfair_TimeSeries.png)
 ]
 
 ---
-class: inverse, center
+class: center
 background-image: url(./img/minard-russia.png)
 
-## Charles Joseph Minard
+# Charles Joseph Minard
 
 .footnote[
 New book ! [The Minard System](https://visionscarto.net/the-minard-system), Rendgen 2018
@@ -362,7 +363,7 @@ x **Data transformation** .small[(Selection, Binning, Aggregation...)]
 background-image:url(./img/ewma_correction.png)
 
 ---
-class: middle, inverse
+class: middle
 
 ## "Since most users do not want to become experts in human perception, our strategy is to incorporate guidance directly into the visualization software to aid in the the visual design process"
 
