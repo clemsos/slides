@@ -1,5 +1,5 @@
 ---
-title: "Représenter l'évolution spatio-temporelle de réseaux"
+title: "Topogram: Visualiser l'évolution spatio-temporelle des réseaux"
 description: ""
 date: 2018-10-07
 layout: slides
