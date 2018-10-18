@@ -30,19 +30,20 @@ class: inverse
 
 # Au programme
 
-## Les joies de l'épistémologie
+## Les joies de l'épistémologie, théorie de la connaissance
 
+.left-column[
 <br />
+### D'où vient la notion de visualisation ?  
 <br />
-
-.col-one-half[
-### D'où vient la notion de visualisation ?
-### Quel est l'action de la visualisation dans le domaine de la représentation?
-### Comment est constitué le champ scientifique de la "viz" ?
+### Quel est l'action de la visualisation sur notre représentation du monde?  
+<br />
+### Comment est constitué le champ scientifique de la "viz" ?  
+<br />
 ### etc.
 ]
 
-.col-one-half[
+.right-column[
   ![](./img/elephant-room-science.jpg)
 ]
 
@@ -90,20 +91,98 @@ background-image: url(../MemeWriting/img/google-datacenter.jpg)
 .small.footnote[Data Center in Douglas County, Georgia. USA - source: [Google](http://www.google.com/about/datacenters/)]
 
 ---
+name:representation
+class: center, middle, inverse
+background-image:url(../MemeWriting/img/perspective.png)
+
+# Espaces graphiques et espaces de la représentation
+
+.small.footnote[Jan Vredeman de Vries – *Traité « Perspective »* (1604) <br>  source: [Denis Favennec](http://math.univ-lyon1.fr/irem/spip.php?article232) ]
+
+<!-- La représentation mathématique du monde
+
+Transformation de la science aussi : constitution de domaines scientifiques -->
+
+---
+
+# L'avénement de la perspective
+
+.left-column[
+### Nombreux traités mathématiques
+Rationalisation de la représentation
+<br />
+### Un nouveau "point de vue" (Damisch, 1999)
+L'humanisme : réduire l'homme à un point?
+<br />
+### Transformations des rapports sujet/objet, scène/décor, privé/public
+Clivage entre regard (savoir) et sujet (vérité)
+<br />
+]
+
+.right-column[
+![](./img/outil_perspective.jpg)
+]
+
+---
+class: inverse
+background-image: url(./img/Uccello_Battle_of_San_Romano_Uffizi.jpg)
+
+## Perspective(s) - linéaire, centrale, etc
+
+.footnote[Paolo Uccello, Battle of San Romano (c. 1435–1455), tempera on wood, 182 × 320 cm, Galleria degli Uffizi, Florence]
+
+
+---
+class: inverse
+background-image: url(./img/Durer-painting.jpg)
+
+.one-half[
+# Durer's Machines
+###(1471 – 1528)
+
+
+![](./img/durer-machine.jpg)
+
+]
+
+.footnote[Saint Jérôme dans son étude (1514)]
+
+<!-- .right-column[
+![](./img/durer-machine2.jpg)
+![](./img/Durer-painting.jpg)
+] -->
+
+---
+background-image: url(./img/brunellesci.jpg)
+class: inverse
+
+# Nouveaux Espaces de la Perspective
+
+.left-column[
+### Filippo Brunellesci (1377 – 1446)
+Le Dôme de la Cathédrale de Florence (1419–1436) (à droite)
+
+"Brunelleschi's experiment" : linear Perspective
+
+### Leon Battista Alberti (1404-1472)
+De pictura (1435-1436)
+
+L'Art d'édifier (1443)
+
+### Léonard de Vinci (1452-1519)
+
+]
+---
 name:confucius
 class: middle, inverse
 
 .col-one-half[
-# La régulation de l'espace de la représentation
+# L'écriture régule l'espace <br /> .small[(de la représentation)]
 
-
-Zi Lu dit : *"Si le souverain de Wei vous invitait et vous confiait le gouvernement, que feriez vous en premier lieu"*
-
-Le Maître dit : *"Rectifier les noms ! Pour sûr !"*
+### .small[*Zi Lu dit :*] <br /> "Si le souverain de Wei vous invitait et vous confiait le gouvernement, que feriez vous en premier lieu?"
+### .small[*Le Maître dit :]* <br /> "Rectifier les noms ! Pour sûr !"
 
 .small[*Lunyu, les Entretiens de Confucius*, 13.3, trad. Pierre Ryckmans, Gallimard, 1987.]
-
-En Chine, mais aussi ailleurs : Les mots et les choses (Foucault), la carte et le territoire (Bateson), etc.
 
 ]
 .col-one-half[
@@ -133,27 +212,6 @@ video
 .right-column[
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngZ0K3lWKRc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ]
-
-
----
-name:representation
-class: center, middle, inverse
-background-image:url(../MemeWriting/img/perspective.png)
-
-# Quel espace commun de la représentation?
-
-## Exemple : La perspective
-
-
-.small.footnote[Jan Vredeman de Vries – *Traité « Perspective »* (1604) <br>  source: [Denis Favennec](http://math.univ-lyon1.fr/irem/spip.php?article232) ]
-
-<!-- La représentation mathématique du monde
-Transformations de rapport sujet / objet, scène / décor, privé / public
-L'introduction d'un nouveau "point de vue"
-Aide à penser de nouveaux espaces construits : villes, architecture, etc.
-ex. Dürer et la Réforme (pertes de job pour les peintres, traités de perspective...)
-
-Transformation de la science aussi : constitution de domaines scientifiques -->
 
 ---
 name:data
