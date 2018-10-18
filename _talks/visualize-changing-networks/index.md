@@ -1,9 +1,8 @@
 ---
 title: "Topogram: Visualiser l'évolution spatio-temporelle des réseaux"
-description: ""
+description: "Quelques réflexions préliminaires sur la visualisation spatio-temporelle des réseaux, accompagnées d'exemples sur la représentation du temps dans l'espace."
 date: 2018-10-07
 layout: slides
-hide: true
 ---
 
 <div markdown="0">
@@ -26,7 +25,7 @@ background-image: url(img/supercargo-img1.png)
 
 
 .footnote[
-# Studying changes
+# Comprendre les changements
 
 [Peter Moossgard](http://cargoclub.tumblr.com/), 2016
 ]
