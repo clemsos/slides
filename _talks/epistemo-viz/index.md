@@ -1,8 +1,7 @@
 ---
 layout: slides
 title: "Epistémologie du champ de la visualisation"
-description: "En Français - Quelques éléments d'histoire et d'épistémologie pour mieux comprendre l'émergence du champ de la visualisation, ses implications et son avenir."
-link:
+description: "Eléments d'épistémologie et d'histoire de la visualisation. L'objectif est de mieux comprendre d'une part son action dans le champ de la représentation, d'autre part son émergence en tant que champ scientifique constituté. Nous discutons ses limites, directions futures et possibles implications pour le présent et l'avenir de la recherche scientifique."
 date: 2018-10-17
 place: "GeoViz 2018, Assois"
 ---

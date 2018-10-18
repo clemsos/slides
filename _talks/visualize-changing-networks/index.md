@@ -1,8 +1,9 @@
 ---
-title: "Topogram: Visualiser l'évolution spatio-temporelle des réseaux"
-description: "Quelques réflexions préliminaires sur la visualisation spatio-temporelle des réseaux, accompagnées d'exemples sur la représentation du temps dans l'espace."
-date: 2018-10-07
 layout: slides
+title: "Visualiser l'évolution spatio-temporelle des réseaux"
+description: "Réflexions et retours d'expériences sur des travaux de recherche et développement menés ces dernières années autour de la représentation de l'évolution spatio-temporelle des réseaux. Notamment, la réécriture d'un prototype de visualisation issue d'une recherche doctorale en un logiciel à usage générique appelé Topogram."
+date: 2018-10-07
+place: GeoViz 2018, Assois
 ---
 
 <div markdown="0">
