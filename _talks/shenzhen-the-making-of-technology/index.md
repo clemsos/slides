@@ -12,7 +12,7 @@ The legendary speed of Shenzhen’s urban and industrial development has led to 
 "
 link: https://www.facebook.com/events/367619910396542/
 date: 2018-05-15
-place: "Goldsmisths University, London - HEAD, Geneva"
+place: "Goldsmisths University, London - HEAD, Geneva - EPFL, Lausanne"
 ---
 <div markdown="0">
 Please use left/right keyboard arrows to navigate prev/next
@@ -130,22 +130,40 @@ Jan-Feb 1992
 ]
 
 ---
-class: inverse, middle, center
-background-image: url(./img/cny-robodance.gif)
+background-image: url(./img/shenzhen-map.jpg)
+class: inverse
 
-.inverse[
-# Growing and nurturing giants
+# The planning of Shenzhen
+
+.footnote[
+
+*"Chinese urban planning is not top-down but rather operates from small [projects] to large [plan]"* --- Huang Weiwen, Shenzhen Center for Design Director
+
+.small[
+quote from O'Donnell, 2016 - map : Ng and Tang, 2004
+]
 ]
 
-.inverse[
-### Foxconn but also Tencent, Huawei, BYD, DJI, BGI, Ping An...
+---
+background-image: url(./img/shenzhen-planning-1996-2010.jpg)
+class: inverse
+
+## Shenzhen Master Plan (1996)
+
+.footnote[
+Shenzhen Municipal Government in O'Donnell
 ]
 
+---
+background-image: url(./img/shenzhen-2010-2014-plan.jpg)
+class: inverse
 
-.footnote.small[
-2017 Chinese New Year TV show featuring a ballet of robots by Shenzhen company *UBTech*  
-dancing with the famous singer Sun Nan - source: CCTV
+## Shenzhen Master Plan (2010)
+
+.footnote[
+(Shenzhen Municipal Government 2010)
 ]
+
 ---
 class: inverse
 background-image: url(./img/xia_hai.jpeg)
@@ -191,11 +209,13 @@ background-image: url(./img/Electronics_factory_in_Shenzhen-min.jpg)
 ]
 
 ---
-class: middle, center
-background-image: url(../ShanzhaiArcheology/img/HQBlife.jpg)
+background-image: url(./img/longhua.jpg)
 
-.inverse[
-# The family-based factory
+# Longhua Industrial District
+
+.footnote[
+Home of Foxconn/Hon Hai Longhua plant. Incorporated in the SEZ in 2010
+.small[(Zou, 2014)]
 ]
 
 ---
@@ -206,6 +226,33 @@ background-image: url(img/remote_exploded.jpg)
 ]
 
 .footnote[image: [Bug Workshop](http://bugworkshop.blogspot.co.uk/2014/11/sonyrm-677c.html)]
+
+---
+class: middle, center
+background-image: url(../ShanzhaiArcheology/img/HQBlife.jpg)
+
+.inverse[
+# The family-based factory
+]
+
+---
+class: inverse
+background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
+
+# Huaqiangbei
+
+.footnote[
+
+]
+
+---
+background-image: url(./img/huaqiangbei-map.png)
+
+# Huaqiangbei
+
+.footnote[
+
+]
 
 ---
 background-image: url(./img/iPhones.jpg)
@@ -259,6 +306,24 @@ background-image: url(./img/bitcoin-mine.jpeg)
 ]
 
 .footnote.small[Source : Vice]
+
+---
+class: inverse, middle, center
+background-image: url(./img/cny-robodance.gif)
+
+.inverse[
+# Growing and nurturing giants
+]
+
+.inverse[
+### Foxconn but also Tencent, Huawei, BYD, DJI, BGI, Ping An...
+]
+
+
+.footnote.small[
+2017 Chinese New Year TV show featuring a ballet of robots by Shenzhen company *UBTech*  
+dancing with the famous singer Sun Nan - source: CCTV
+]
 
 ---
 class: middle, center
