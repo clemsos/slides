@@ -18,7 +18,7 @@ class: center, middle, inverse
 ### Clément Renaud  
 [http://clementrenaud.com](bonjour@clementrenaud.com)
 
-Oct 2017
+Nov 2018
 
 ---
 class: inverse

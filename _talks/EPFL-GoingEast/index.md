@@ -19,7 +19,6 @@ Clément Renaud / http://clementrenaud.com
 ---
 class: center, middle, inverse
 
-
 # “Mass makerspaces” : un projet de renouveau urbain par l’innovation technologique en Chine
 
 ### Going East - EPFL
