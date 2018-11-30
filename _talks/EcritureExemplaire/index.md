@@ -50,11 +50,26 @@ background-image: url(../MemeWriting/img/cuneiform.jpg)
 <br>Musée du Louvre - photo: [(c) Claude Valette](https://www.flickr.com/photos/cvalette/9632530128) ]
 
 ---
+class:inverse
+background-image: url(./img/gutenberg-printing-workshop.jpg)
+
+# Infrastructures
+## Les réseaux de distribution de l'écriture
+
+---
+class:inverse
+background-image: url(./img/660px-Grunewald_Isenheim.jpg)
+
+# Exemplarité et écriture
+## Façonner les représentations, façonner les humains
+
+
+---
 name:library
 class:inverse, middle, center
 background-image: url(../MemeWriting/img/bibli.jpg)
 
-# L'écriture pré-industrielle
+# Les industries de l'écriture
 
 .small.footnote[Library in Trinity College, Dublin. Ireland - source:[(c) Ahmet Ertug](http://www.phillips.com/detail/AHMET-ERTUG/NY040114/225)]
 ---
@@ -65,20 +80,6 @@ background-image: url(../MemeWriting/img/google-datacenter.jpg)
 # Les industries de l'écriture
 
 .small.footnote[Data Center in Douglas County, Georgia. USA - source: [Google](http://www.google.com/about/datacenters/)]
-
----
-class:inverse
-background-image: url(./img/660px-Grunewald_Isenheim.jpg)
-
-# Exemplarité et écriture
-## Façonner les représentations, façonner les humains
-
----
-class:inverse
-background-image: url(./img/gutenberg-printing-workshop.jpg)
-
-# Infrastructures
-## Les réseaux de distribution de l'écriture
 
 ---
 class: center, middle, inverse
@@ -163,10 +164,24 @@ background-image: url(../shenzhen-the-making-of-technology/img/Electronics_facto
 ]
 
 ---
+
+class: inverse, cover, middle, center
+background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
+
+.inverse[
+# Shenzhen SEZ .small[(1978-2018)]
+]
+---
 class:inverse
 background-image: url(./img/mingong-phone.jpeg)
 
 # Le numérique, infrastructure sociale
+
+---
+class:inverse
+background-image: url(../shenzhen-the-making-of-technology/img/qr.jpg)
+
+# Le numérique, infrastructure urbaine
 
 ---
 class: center, middle, inverse
@@ -184,9 +199,14 @@ background-image: url(./img/credit-system-official.jpg)
 
 ---
 background-image: url(./img/P2P-lending.jpg)
+.inverse[
 # Credit score
+]
 
-## Réguler la "tontine" numérique et autres prêts P2P
+.inverse[
+## Réguler la "tontine" numérique et les crédits P2P
+]
+
 
 ---
 class: inverse
@@ -207,21 +227,25 @@ class: center, middle, inverse
 
 # 5. La Bureaucratie 2.0
 ---
+class: center
 # Plébiscite de nombreux chinois
 
+### Le "systéme de confiance" : pression sociale et baisse des risques
+
 ![](./img/credit-score-approval-income.png)
+
+
 
 .footnote.small[ source: *China’s Social Credit Systems and Public Opinion: Explaining High Levels of Approval*, Genia Kotska]
 
 ---
 class: center, inverse
-background-image: url("./img/723px-Supreme_People's_Court_of_P.R.China's_badge.svg.png")
 
 # Construire un système légal
 
-## Pression sociale et baisse systémique des risques
+## A l'heure du numérique
 
-
+![](./img/723px-Supreme_People's_Court_of_P.R.China's_badge.svg.png)
 
 ---
 class: inverse
@@ -232,6 +256,19 @@ background-image: url("./img/Lawrence_Lessig.jpg")
 ---
 class: center, middle, inverse
 
-## Conclusion
+### Conclusion / discussions
 
-# Paperasses ou apps, mais quelle justice?
+# Paperasses ou apps...
+## Qui écrit la loi ? <br/> Comment ?
+# ... pour quelle justice?
+
+---
+class: center, middle
+
+
+# Merci !
+## Des questions ?
+
+<br />
+### @clemsos
+### bonjour@clementrenaud.com
