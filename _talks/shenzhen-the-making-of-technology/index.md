@@ -308,6 +308,14 @@ background-image: url(./img/bitcoin-mine.jpeg)
 .footnote.small[Source : Vice]
 
 ---
+class: middle, center
+background-image: url(./img/qr.jpg)
+
+.inverse[
+# Defining new paths
+]
+
+---
 class: inverse, middle, center
 background-image: url(./img/cny-robodance.gif)
 
@@ -324,6 +332,7 @@ background-image: url(./img/cny-robodance.gif)
 2017 Chinese New Year TV show featuring a ballet of robots by Shenzhen company *UBTech*  
 dancing with the famous singer Sun Nan - source: CCTV
 ]
+
 
 ---
 class: middle, center
