@@ -19,8 +19,8 @@ Please use left/right keyboard arrows to navigate prev/next
 ---
 class: center, middle, inverse
 
-# The Making of Shenzhen
-## A Transforming Experience of Technology on Earth
+# The Making of Technology in Shenzhen
+## Local and Global Implications 
 
 <br />
 ### Clément Renaud
