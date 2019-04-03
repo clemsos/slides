@@ -1,8 +1,9 @@
 ---
 layout: slides
-title: "The Thermodynamics of Data"
+title: "New Frontiers of Representation - The Planetary Scale"
 date: 2019-04-01
 place: "Mirage Festival, Lyon"
+description: "We need new forms and spaces of representations to apprehend what is happening today. This talk gives a brief overview of recent scientific questions that approach phenomenons at planetary scale and requires new formal explorations of how they can be represented."
 ---
 
 <div markdown="0">
