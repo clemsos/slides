@@ -19,8 +19,8 @@ Please use left/right keyboard arrows to navigate prev/next
 ---
 class: center, middle, inverse
 
-# The Making of Technology in Shenzhen
-## Local and Global Implications 
+# The Making of Shenzhen
+
 
 <br />
 ### Clément Renaud
@@ -29,7 +29,7 @@ class: center, middle, inverse
 Swiss Institute of Technology (EPFL)  
 
 <br />
-2018  
+2019
 
 ---
 class: middle, center
@@ -93,6 +93,10 @@ background-image: url(./img/PRD_history.jpg)
 .footnote.small[
 A trade port in Guangdong at the end of the 19th Century -  source: [Wright, Arnold (1908)](https://archive.org/details/twentiethcentury00wriguoft)
 ]
+
+---
+class: inverse, center
+background-image: url(./img/wuhan-bridge.jpg)
 
 ---
 class: inverse
@@ -262,6 +266,34 @@ background-image: url(./img/iPhones.jpg)
 ]
 
 ---
+background-image: url(./img/mtk.jpg)
+
+.inverse.center[
+# Modularization of technology
+]
+
+
+
+---
+background-image: url(./img/whitebox.jpg)
+
+.inverse.center[
+# The 90s "Whitebox" Computers
+]
+
+---
+class: center, middle, inverse
+background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
+
+.inverse[
+# shan zhai 山寨
+]
+
+.footnote.small[
+[SHANZHAI ARCHEOLOGY](http://disnovation.org/shanzhai.html) by DISNOVATION.ORG, Qu Hongyuan & Clément Renaud
+]
+
+---
 
 background-image: url(../ShanzhaiArcheology/img/PowerBankPhone.png)
 class:center
@@ -283,18 +315,6 @@ Accra, Ghana (2015)
 .left-column[
 ![](../ShanzhaiArcheology/img/PowerBankPhoneFront.png)
 ![](../ShanzhaiArcheology/img/PowerBankPhoneFrontProfile.png)
-]
-
----
-class: center, middle, inverse
-background-image: url(../ShanzhaiArcheology/img/shapes-shanzhai.jpeg)
-
-.inverse[
-# shan zhai 山寨
-]
-
-.footnote.small[
-[SHANZHAI ARCHEOLOGY](http://disnovation.org/shanzhai.html) by DISNOVATION.ORG, Qu Hongyuan & Clément Renaud
 ]
 
 ---
@@ -351,6 +371,46 @@ background-image: url(../EPFL-GoingEast/img/chuangke.jpg)
 ]
 
 .footnote[The maker (创客), new hero of the **Made in China 2025** 10-year plan]  
+
+---
+class: inverse
+background-image: url(./img/REFORM-Superblock.jpg)
+
+.inverse[
+# Towards a "modular" city ?
+]
+
+.footnote[ source : [Harvard RE-FORM project](https://www.gsd.harvard.edu/project/re-form-towards-human-scale-urbanism-in-china/)]
+
+---
+class: center, inverse
+background-image: url(./img/massive-flyover-before.jpg)
+
+.inverse[
+## "Work started Jan. 29..."
+]
+---
+class: center, inverse
+background-image: url(./img/massive-flyover-after.jpg)
+
+
+.inverse[
+## "...and was completed Feb. 6"
+]
+
+.footnote[
+source : [Eye Shenzhen - Massive flyover dismantled at Shenzhen Speed ](http://www.eyeshenzhen.com/content/2019-02/13/content_21404674.htm)
+]
+
+---
+class: center, inverse
+background-image: url(./img/REFORM-betweenessSE.jpg)
+
+.inverse[
+# Building Blocks
+]
+
+.footnote[ source : [Harvard RE-FORM project](https://www.gsd.harvard.edu/project/re-form-towards-human-scale-urbanism-in-china/)]
 
 ---
 background-image: url(./img/china-city-johannesburg.jpg)
