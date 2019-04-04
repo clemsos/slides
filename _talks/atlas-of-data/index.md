@@ -66,6 +66,17 @@ Schmid, Brenner & Topalovic, 2018]
 ]
 
 ---
+class: inverse
+background-image: url(./img/Submarine_Cable.jpg)
+
+.inverse[
+# Global Infrastructures
+]
+.footnote.inverse[
+Submarine Cable Map
+]
+
+---
 background-image: url(./img/Antikythera-Mechanism.jpg)
 class: inverse
 .inverse[
@@ -78,19 +89,32 @@ class: inverse
 ]
 
 ---
-class: inverse
-background-image: url(./img/Submarine_Cable.jpg)
-# Global Infrastructures
+class: center
+background-image: url(../shenzhen-the-making-of-technology/img/Electronics_factory_in_Shenzhen-min.jpg)
 
+.inverse[
+# Manufacturing the world
+]
+
+.inverse.footnote[
+Micro-soldering in Guangdong, Wikipedia
+]
+
+---
+background-image: url(./img/gravity-shift.jpg)
+
+.inverse[
+# Shift in Global Economic Gravity Center
+]
 .footnote.inverse[
-Submarine Cable Map
+McKinsey / Quah, 2011
 ]
 
 ---
 class: center
 
 .inverse[
-# Building up digital infrastructures
+# Building up the "global village"
 ]
 
 .col-one-half[
@@ -106,17 +130,7 @@ class: center
 ![](../shenzhen-the-making-of-technology/img/cyber_politics-jiang.png)
 ]
 
----
-class: center
-background-image: url(../shenzhen-the-making-of-technology/img/Electronics_factory_in_Shenzhen-min.jpg)
 
-.inverse[
-# Manufacturing the "global village"
-]
-
-.inverse.footnote[
-Wikipedia
-]
 
 ---
 
@@ -125,16 +139,6 @@ background-image: url(../EPFL-GoingEast/img/shenzhen.jpg)
 
 .inverse[
 # Shenzhen : 1978-2018
-]
-
----
-background-image: url(./img/gravity-shift.jpg)
-
-.inverse[
-# Shift in Global Economic Gravity Center
-]
-.footnote.inverse[
-McKinsey / Quah, 2011
 ]
 
 ---
