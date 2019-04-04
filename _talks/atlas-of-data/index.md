@@ -25,14 +25,14 @@ class: center, middle, inverse
 2019
 
 ---
-class: center, middle
+background-image: url(./img/shan-shui-cheng.jpg)
+class: middle, center, inverse
+# The World is Changing
 
-# The Unthinkables
 
-
-## The fragility of the Earth ecosystems
+<!-- ## The fragility of Earth ecosystems
 ## Digital solutions and problems
-## A new world order
+## A new world order -->
 
 ---
 background-image: url(./img/planetary-boundaries.jpg)
@@ -68,11 +68,13 @@ Schmid, Brenner & Topalovic, 2018]
 ---
 background-image: url(./img/Antikythera-Mechanism.jpg)
 class: inverse
+.inverse[
 # Technosphere
-### Technology as a geological phenomenon .small[(Haff, 2014)]
+]
+
 
 .footnote.inverse[
-Technofossil of the [Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism) (~100 BC)
+(Haff, 2014)
 ]
 
 ---
@@ -114,17 +116,6 @@ background-image: url(../shenzhen-the-making-of-technology/img/Electronics_facto
 
 .inverse.footnote[
 Wikipedia
-]
----
-class: middle, center
-background-image: url(../ShanzhaiArcheology/img/HQBstuff.jpg)
-
-.inverse[
-# Consumer Electronics
-]
-
-.inverse.footnote[
-Huaqiang Bei district in Shenzhen
 ]
 
 ---
