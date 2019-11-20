@@ -130,8 +130,6 @@ class: center
 ![](../shenzhen-the-making-of-technology/img/cyber_politics-jiang.png)
 ]
 
-
-
 ---
 
 class: inverse, cover, middle, center
